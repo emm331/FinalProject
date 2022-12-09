@@ -10,8 +10,10 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-client_id = os.getenv("client_id")
-client_secret = os.getenv("client_secret")
+client_id = "e511d6d85faa4eb2bf5992529106c09b"
+client_secret = "7ea0c0a57a434e6e915f683a8be4b920"
+#client_id = os.getenv("client_id")
+#client_secret = os.getenv("client_secret")
 client_credentials_manager = os.getenv("client_credentials_manager")
 sp = os.getenv("sp")
 
