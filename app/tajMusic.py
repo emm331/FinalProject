@@ -15,9 +15,9 @@ from dotenv import load_dotenv
 # Spotify Token Access
 load_dotenv()
 
-SPOTIPY_CLIENT_ID = os.getenv("client_id")
-CLIENT_SECRET = os.getenv("client_secret")
-client_credentials_manager = SpotifyClientCredentials(SPOTIPY_CLIENT_ID=client_id, CLIENT_SECRET=client_secret)
+client_id = os.getenv("client_id")
+client_secret = os.getenv("client_secret")
+client_credentials_manager = SpotifyClientCredentials(client_id=client_id, client_secret=client_secret)
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 # Get Spotify username

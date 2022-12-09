@@ -10,10 +10,12 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-spotipy_client_id = os.getenv("client_id")
+client_id = os.getenv("client_id")
 client_secret = os.getenv("client_secret")
-client_credentials_manager = os.getenv("client_credentials_manager")
-sp = os.getenv("sp")
+client_credentials_manager = SpotifyClientCredentials(client_id=client_id, client_id=client_secret)
+sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
+#client_credentials_manager = os.getenv("client_credentials_manager")
+##sp = os.getenv("sp")
 
 # Get XML name
 playlist = tm.xml_name()
