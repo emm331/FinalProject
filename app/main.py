@@ -1,11 +1,7 @@
 # this is the AppleMusicToSpotify/app/main.py file...
 
 
-<<<<<<< HEAD
 # Imports 
-=======
-# Imports
->>>>>>> 8ca671deb3924a0c4e8f288c3a4c704c0c214e1d
 import app.tajMusic as tm
 
 # Spotify Token Access
