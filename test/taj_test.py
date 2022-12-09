@@ -2,9 +2,6 @@
 from app.tajMusic import song_list_generator, artist_list_generator, album_list_generator
 import os
 
-#Point to file, test directory, up 1 level to root directory to Music.xml
-#Going to use Music.xml
-
 xml_filepath = os.path.join(os.path.dirname(__file__), "..", "Music.xml")
 
 def test_xml_parse_song():
