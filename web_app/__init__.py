@@ -5,8 +5,6 @@ from flask import Flask
 from web_app.routes.home_routes import home_routes
 from web_app.routes.convert_routes import convert_routes
 
-
-
 def create_app():
     app = Flask(__name__)
 
