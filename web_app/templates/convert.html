@@ -1,0 +1,30 @@
+{% extends "bootstrap_5_layout.html" %}
+{% set active_page = "convert" %}
+
+{% block content %}
+
+    <h1>Welcome to the Playlist Converter</h1>
+    <p></p>
+  <form action="/convert/playlist" method="POST" enctype="multipart/form-data">
+    <div class="mb-3">
+        <label for="exampleFormControlInput1" class="form-label">Give your new playlist a name</label>
+        <input type="text" class="form-control" name="name" placeholder="Taj on AUX">
+      </div>
+
+      <div class="mb-3">
+        <label for="exampleFormControlInput1" class="form-label">Enter your Spotify username</label>
+        <input type="text" class="form-control" name="username" placeholder="TajMaMusic">
+      </div>
+
+     <p>Upload your Apple Music playlist as an .XML file</p>
+
+    <div class="input-group mb-3">
+        <input type="file" class="form-control" id="inputGroupFile02" name="XML">
+        <label class="input-group-text" name="XML" for="inputGroupFile02">Upload</label>
+      </div>
+
+    <!-- SEE: https://getbootstrap.com/docs/5.0/components/buttons/ -->
+    <button class="btn btn-dark">Convert My Playlist</button>
+  </form>
+
+{% endblock %}
