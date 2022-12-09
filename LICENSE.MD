@@ -15,3 +15,7 @@ Attribution — You must give appropriate credit, provide a link to the license,
 Non-Commercial — You may not use the material for commercial purposes, without prior written consent from the author. For commercial licensing opportunities, contact the author.
 
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Code Cited:
+Our Original Repository: https://github.com/emm331/AppleMusicToSpotify
+Used code structure and found API from: https://github.com/AugmentedMode/Music-Move
