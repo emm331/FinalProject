@@ -1,0 +1,40 @@
+# this is the "requirements.txt" file...
+
+python-dotenv
+
+pandas
+
+requests
+
+spotipy 
+
+dicttoxml
+
+xmltodict
+
+lxml
+
+#plotly
+
+#sendgrid==6.6.0
+
+flask # <--- ADD FOR WEB APP
+#gunicorn
+
+
+# using this to find and run our tests:
+pytest
+
+# using bsoup in testing the web app:
+beautifulsoup4 # <-- ADDITION
+
+# for our web app interface:
+flask
+
+# the heroku server wants to use this package to run our web app
+gunicorn
+
+# using this to find and run our tests
+pytest
+
+sendgrid==6.6.0
