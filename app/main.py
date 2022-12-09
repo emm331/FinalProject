@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-client_id = os.getenv("client_id")
+spotipy_client_id = os.getenv("client_id")
 client_secret = os.getenv("client_secret")
 client_credentials_manager = os.getenv("client_credentials_manager")
 sp = os.getenv("sp")
