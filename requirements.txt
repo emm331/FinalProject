@@ -14,14 +14,6 @@ xmltodict
 
 lxml
 
-#plotly
-
-#sendgrid==6.6.0
-
-flask # <--- ADD FOR WEB APP
-#gunicorn
-
-
 # using this to find and run our tests:
 pytest
 
@@ -33,8 +25,3 @@ flask
 
 # the heroku server wants to use this package to run our web app
 gunicorn
-
-# using this to find and run our tests
-pytest
-
-sendgrid==6.6.0
