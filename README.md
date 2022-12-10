@@ -71,3 +71,5 @@ https://taj-converter.herokuapp.com/
 Another to do item is adding more dynamic testing options in the taj_test.py file. This testing would include ways to test for successful playlist creation on the Spotify side of things
 
 Also, our code climat score is an F right now. One thing we will explore is raising this score and helping our code become more efficient
+
+In regards to Dev Process, we had an issue on 12/9 after a series of revisions where we could not obtain older commits. Our solution was to create a new repository from scratch, which was submitted. Our old repository (https://github.com/emm331/AppleMusicToSpotify) is a more accurate representation of our process, as we utilized branching and forking through a series of commits from each group member.
