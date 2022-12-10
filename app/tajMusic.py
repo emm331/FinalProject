@@ -13,6 +13,7 @@ import os
 from dotenv import load_dotenv
 
 # Spotify Token Access
+
 load_dotenv()
 
 client_id = os.getenv("client_id")
