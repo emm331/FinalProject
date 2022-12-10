@@ -62,3 +62,11 @@ Run test:
 pytest
 ```
 
+## To Do
+
+https://taj-converter.herokuapp.com/
+^This link displays the web app and runs it; however, it hangs and fails when it runs for longer than 30 seconds. Something that we will further investigate is trying to fix this problem and helping the public web app run quicker
+
+Another to do item is adding more dynamic testing options in the taj_test.py file. This testing would include ways to test for successful playlist creation on the Spotify side of things
+
+Also, our code climat score is an F right now. One thing we will explore is raising this score and helping our code become more efficient

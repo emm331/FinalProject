@@ -15,12 +15,9 @@ from dotenv import load_dotenv
 # Spotify Token Access
 
 load_dotenv()
-client_id = "dac824fa6ceb4b3483acc11595ea91d2"
 
-client_secret = "a08528b1567b41d497c7ce06cf1e2295"
-
-# client_id = os.getenv("client_id") 
-# client_secret = os.getenv("client_secret")
+client_id = os.getenv("client_id") 
+client_secret = os.getenv("client_secret")
 
 client_credentials_manager = SpotifyClientCredentials(client_id=client_id, client_secret=client_secret)
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
