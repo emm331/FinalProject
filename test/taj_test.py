@@ -2,8 +2,6 @@
 
 from app.tajMusic import song_list_generator, artist_list_generator, album_list_generator
 import os
-from dotenv import load_dotenv
-
 
 xml_filepath = os.path.join(os.path.dirname(__file__), "..", "Music.xml")
 
