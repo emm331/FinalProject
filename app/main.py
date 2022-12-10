@@ -28,7 +28,7 @@ song_list = tm.song_list_generator(playlist)
 artist_list = []
 artist_list =tm.artist_list_generator(playlist)
 
-# Get album list 
+# Get album list
 album_list = []
 album_list = tm.album_list_generator(playlist)
 
