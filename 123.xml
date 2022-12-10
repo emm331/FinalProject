@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2022-12-10T03:17:43Z</date>
+	<key>Application Version</key><string>1.2.5.7</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/elliemaransky/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>F1EA84130E6BE5F0</string>
+	<key>Tracks</key>
+	<dict>
+		<key>109</key>
+		<dict>
+			<key>Track ID</key><integer>109</integer>
+			<key>Name</key><string>...Ready For It?</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Composer</key><string>Taylor Swift, Max Martin, Shellback &#38; Ali Payami</string>
+			<key>Album</key><string>reputation</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7405311</integer>
+			<key>Total Time</key><integer>208198</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2022-11-13T17:07:27Z</date>
+			<key>Date Added</key><date>2017-11-10T21:55:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3753456095</integer>
+			<key>Play Date UTC</key><date>2022-12-09T23:41:35Z</date>
+			<key>Release Date</key><date>2017-09-03T07:00:00Z</date>
+			<key>Normalization</key><integer>3105</integer>
+			<key>Sort Album</key><string>reputation</string>
+			<key>Sort Artist</key><string>Taylor Swift</string>
+			<key>Sort Name</key><string>...Ready For It?</string>
+			<key>Persistent ID</key><string>49990FB21D6B42E4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/elliemaransky/Music/Music/Media.localized/Music/Taylor%20Swift/reputation/01%20...Ready%20For%20It_.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Taylor Swift - reputation</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>181</integer>
+			<key>Playlist Persistent ID</key><string>7D25208CE86DB2FB</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>109</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

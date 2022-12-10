@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2022-12-10T03:26:10Z</date>
+	<key>Application Version</key><string>1.2.5.7</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/elliemaransky/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>F1EA84130E6BE5F0</string>
+	<key>Tracks</key>
+	<dict>
+		<key>99</key>
+		<dict>
+			<key>Track ID</key><integer>99</integer>
+			<key>Name</key><string>Delicate</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Composer</key><string>Taylor Swift, Max Martin &#38; Shellback</string>
+			<key>Album</key><string>reputation</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8211928</integer>
+			<key>Total Time</key><integer>232251</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-02-13T05:45:07Z</date>
+			<key>Date Added</key><date>2017-11-10T21:55:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-11-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>reputation</string>
+			<key>Sort Artist</key><string>Taylor Swift</string>
+			<key>Sort Name</key><string>Delicate</string>
+			<key>Persistent ID</key><string>2FC2180814B90BD1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>101</key>
+		<dict>
+			<key>Track ID</key><integer>101</integer>
+			<key>Name</key><string>Look What You Made Me Do</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Composer</key><string>Taylor Swift, Jack Antonoff, Richard Fairbrass, Fred Fairbrass &#38; Rob Manzoli</string>
+			<key>Album</key><string>reputation</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7565601</integer>
+			<key>Total Time</key><integer>211859</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-02-13T05:45:07Z</date>
+			<key>Date Added</key><date>2017-11-10T21:55:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-08-25T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>reputation</string>
+			<key>Sort Artist</key><string>Taylor Swift</string>
+			<key>Sort Name</key><string>Look What You Made Me Do</string>
+			<key>Persistent ID</key><string>C1AE8B98E885CBE1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>103</key>
+		<dict>
+			<key>Track ID</key><integer>103</integer>
+			<key>Name</key><string>I Did Something Bad</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Composer</key><string>Taylor Swift, Max Martin &#38; Shellback</string>
+			<key>Album</key><string>reputation</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8584416</integer>
+			<key>Total Time</key><integer>238251</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2022-12-10T03:25:39Z</date>
+			<key>Date Added</key><date>2017-11-10T21:55:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-11-10T12:00:00Z</date>
+			<key>Normalization</key><integer>3551</integer>
+			<key>Sort Album</key><string>reputation</string>
+			<key>Sort Artist</key><string>Taylor Swift</string>
+			<key>Sort Name</key><string>I Did Something Bad</string>
+			<key>Persistent ID</key><string>CC8E8217A9F914B2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/elliemaransky/Music/Music/Media.localized/Music/Taylor%20Swift/reputation/03%20I%20Did%20Something%20Bad.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>105</key>
+		<dict>
+			<key>Track ID</key><integer>105</integer>
+			<key>Name</key><string>Don’t Blame Me</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Composer</key><string>Taylor Swift, Max Martin &#38; Shellback</string>
+			<key>Album</key><string>reputation</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8408866</integer>
+			<key>Total Time</key><integer>236414</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2022-12-10T03:25:55Z</date>
+			<key>Date Added</key><date>2017-11-10T21:55:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-11-10T12:00:00Z</date>
+			<key>Normalization</key><integer>4455</integer>
+			<key>Sort Album</key><string>reputation</string>
+			<key>Sort Artist</key><string>Taylor Swift</string>
+			<key>Sort Name</key><string>Don’t Blame Me</string>
+			<key>Persistent ID</key><string>CA6290014693B817</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/elliemaransky/Music/Music/Media.localized/Music/Taylor%20Swift/reputation/04%20Don_t%20Blame%20Me.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>107</key>
+		<dict>
+			<key>Track ID</key><integer>107</integer>
+			<key>Name</key><string>End Game (feat. Ed Sheeran &#38; Future)</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Composer</key><string>Taylor Swift, Ed Sheeran, Max Martin, Shellback &#38; Nayvadius Wilburn</string>
+			<key>Album</key><string>reputation</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8637787</integer>
+			<key>Total Time</key><integer>244821</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-02-13T05:45:07Z</date>
+			<key>Date Added</key><date>2017-11-10T21:55:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-11-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>reputation</string>
+			<key>Sort Artist</key><string>Taylor Swift</string>
+			<key>Sort Name</key><string>End Game (feat. Ed Sheeran &#38; Future)</string>
+			<key>Persistent ID</key><string>C27EB14A5CD9A2EE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>109</key>
+		<dict>
+			<key>Track ID</key><integer>109</integer>
+			<key>Name</key><string>...Ready For It?</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Composer</key><string>Taylor Swift, Max Martin, Shellback &#38; Ali Payami</string>
+			<key>Album</key><string>reputation</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7405311</integer>
+			<key>Total Time</key><integer>208198</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2022-11-13T17:07:27Z</date>
+			<key>Date Added</key><date>2017-11-10T21:55:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3753456095</integer>
+			<key>Play Date UTC</key><date>2022-12-09T23:41:35Z</date>
+			<key>Release Date</key><date>2017-09-03T07:00:00Z</date>
+			<key>Normalization</key><integer>3105</integer>
+			<key>Sort Album</key><string>reputation</string>
+			<key>Sort Artist</key><string>Taylor Swift</string>
+			<key>Sort Name</key><string>...Ready For It?</string>
+			<key>Persistent ID</key><string>49990FB21D6B42E4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/elliemaransky/Music/Music/Media.localized/Music/Taylor%20Swift/reputation/01%20...Ready%20For%20It_.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>112</key>
+		<dict>
+			<key>Track ID</key><integer>112</integer>
+			<key>Name</key><string>Hope Will Lead Us On</string>
+			<key>Artist</key><string>BarlowGirl</string>
+			<key>Album Artist</key><string>BarlowGirl</string>
+			<key>Album</key><string>Hope Will Lead Us On - Single</string>
+			<key>Genre</key><string>Christian</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8712849</integer>
+			<key>Total Time</key><integer>238635</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T05:45:07Z</date>
+			<key>Date Added</key><date>2017-09-18T01:43:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-10-30T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hope Will Lead Us On - Single</string>
+			<key>Sort Artist</key><string>BarlowGirl</string>
+			<key>Sort Name</key><string>Hope Will Lead Us On</string>
+			<key>Persistent ID</key><string>1E5AD76AF5BF0062</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>114</key>
+		<dict>
+			<key>Track ID</key><integer>114</integer>
+			<key>Name</key><string>Call It What You Want</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Composer</key><string>Taylor Swift &#38; Jack Antonoff</string>
+			<key>Album</key><string>reputation</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7200180</integer>
+			<key>Total Time</key><integer>203506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-02-13T05:45:07Z</date>
+			<key>Date Added</key><date>2017-11-10T21:55:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-11-03T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>reputation</string>
+			<key>Sort Artist</key><string>Taylor Swift</string>
+			<key>Sort Name</key><string>Call It What You Want</string>
+			<key>Persistent ID</key><string>DE9E24A62758F450</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>116</key>
+		<dict>
+			<key>Track ID</key><integer>116</integer>
+			<key>Name</key><string>Hold Up</string>
+			<key>Artist</key><string>Beyoncé</string>
+			<key>Album Artist</key><string>Beyoncé</string>
+			<key>Composer</key><string>Beyoncé, Thomas Wesley Pentz, Ezra Koenig, Emile Haynie, Joshua Tillman, Uzoechi Emenike, Sean Rhoden, Doc Pomus, Mort Shuman, DeAndre Way, Antonio Randolph, Kelvin McConnell, Brian Chase, Karen Orzolek &#38; Nick Zinner</string>
+			<key>Album</key><string>Lemonade</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7870672</integer>
+			<key>Total Time</key><integer>221093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2019-02-13T05:45:07Z</date>
+			<key>Date Added</key><date>2016-04-26T23:23:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2016-04-23T07:00:00Z</date>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lemonade</string>
+			<key>Sort Artist</key><string>Beyoncé</string>
+			<key>Sort Name</key><string>Hold Up</string>
+			<key>Persistent ID</key><string>50A77490D5DD0400</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>118</key>
+		<dict>
+			<key>Track ID</key><integer>118</integer>
+			<key>Name</key><string>New Year’s Day</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Composer</key><string>Taylor Swift &#38; Jack Antonoff</string>
+			<key>Album</key><string>reputation</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7974817</integer>
+			<key>Total Time</key><integer>235456</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-02-13T05:45:07Z</date>
+			<key>Date Added</key><date>2017-11-10T21:55:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-11-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>reputation</string>
+			<key>Sort Artist</key><string>Taylor Swift</string>
+			<key>Sort Name</key><string>New Year’s Day</string>
+			<key>Persistent ID</key><string>6F2F784D0F242A7E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>120</key>
+		<dict>
+			<key>Track ID</key><integer>120</integer>
+			<key>Name</key><string>Dress</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Composer</key><string>Taylor Swift &#38; Jack Antonoff</string>
+			<key>Album</key><string>reputation</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8120399</integer>
+			<key>Total Time</key><integer>230385</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-02-13T05:45:07Z</date>
+			<key>Date Added</key><date>2017-11-10T21:55:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-11-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>reputation</string>
+			<key>Sort Artist</key><string>Taylor Swift</string>
+			<key>Sort Name</key><string>Dress</string>
+			<key>Persistent ID</key><string>A382776935438E72</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>122</key>
+		<dict>
+			<key>Track ID</key><integer>122</integer>
+			<key>Name</key><string>This Is Why We Can’t Have Nice Things</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Composer</key><string>Taylor Swift &#38; Jack Antonoff</string>
+			<key>Album</key><string>reputation</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7375674</integer>
+			<key>Total Time</key><integer>207126</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-02-13T05:45:07Z</date>
+			<key>Date Added</key><date>2017-11-10T21:55:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-11-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>reputation</string>
+			<key>Sort Artist</key><string>Taylor Swift</string>
+			<key>Sort Name</key><string>This Is Why We Can’t Have Nice Things</string>
+			<key>Persistent ID</key><string>6D5F0B91DC894B56</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>124</key>
+		<dict>
+			<key>Track ID</key><integer>124</integer>
+			<key>Name</key><string>King of My Heart</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Composer</key><string>Taylor Swift, Max Martin &#38; Shellback</string>
+			<key>Album</key><string>reputation</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7782131</integer>
+			<key>Total Time</key><integer>214327</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-02-13T05:45:07Z</date>
+			<key>Date Added</key><date>2017-11-10T21:55:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-11-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>reputation</string>
+			<key>Sort Artist</key><string>Taylor Swift</string>
+			<key>Sort Name</key><string>King of My Heart</string>
+			<key>Persistent ID</key><string>9DBB34362C6A07A1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>126</key>
+		<dict>
+			<key>Track ID</key><integer>126</integer>
+			<key>Name</key><string>Dancing With Our Hands Tied</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Composer</key><string>Taylor Swift, Max Martin, Shellback &#38; Oscar Holter</string>
+			<key>Album</key><string>reputation</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7505483</integer>
+			<key>Total Time</key><integer>211497</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-02-13T05:45:07Z</date>
+			<key>Date Added</key><date>2017-11-10T21:55:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-11-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>reputation</string>
+			<key>Sort Artist</key><string>Taylor Swift</string>
+			<key>Sort Name</key><string>Dancing With Our Hands Tied</string>
+			<key>Persistent ID</key><string>C5D42BC5779B1486</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>128</key>
+		<dict>
+			<key>Track ID</key><integer>128</integer>
+			<key>Name</key><string>Gorgeous</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Composer</key><string>Taylor Swift, Max Martin &#38; Shellback</string>
+			<key>Album</key><string>reputation</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7486536</integer>
+			<key>Total Time</key><integer>209677</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-02-13T05:45:07Z</date>
+			<key>Date Added</key><date>2017-11-10T21:55:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-10-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>reputation</string>
+			<key>Sort Artist</key><string>Taylor Swift</string>
+			<key>Sort Name</key><string>Gorgeous</string>
+			<key>Persistent ID</key><string>E1EC629F6F6B6037</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>130</key>
+		<dict>
+			<key>Track ID</key><integer>130</integer>
+			<key>Name</key><string>Getaway Car</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Composer</key><string>Taylor Swift &#38; Jack Antonoff</string>
+			<key>Album</key><string>reputation</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8313376</integer>
+			<key>Total Time</key><integer>233626</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-02-13T05:45:07Z</date>
+			<key>Date Added</key><date>2017-11-10T21:55:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-11-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>reputation</string>
+			<key>Sort Artist</key><string>Taylor Swift</string>
+			<key>Sort Name</key><string>Getaway Car</string>
+			<key>Persistent ID</key><string>6876063B38B7D95E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>132</key>
+		<dict>
+			<key>Track ID</key><integer>132</integer>
+			<key>Name</key><string>So It Goes...</string>
+			<key>Artist</key><string>Taylor Swift</string>
+			<key>Album Artist</key><string>Taylor Swift</string>
+			<key>Composer</key><string>Taylor Swift, Max Martin, Shellback &#38; Oscar Görres</string>
+			<key>Album</key><string>reputation</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8175917</integer>
+			<key>Total Time</key><integer>227905</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-02-13T05:45:07Z</date>
+			<key>Date Added</key><date>2017-11-10T21:55:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-11-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>reputation</string>
+			<key>Sort Artist</key><string>Taylor Swift</string>
+			<key>Sort Name</key><string>So It Goes...</string>
+			<key>Persistent ID</key><string>88B6C3363BCB50D4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Library</string>
+			<key>Description</key><string></string>
+			<key>Master</key><true/>
+			<key>Playlist ID</key><integer>65</integer>
+			<key>Playlist Persistent ID</key><string>0000000000000005</string>
+			<key>Visible</key><false/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>99</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>101</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>103</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>105</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>107</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>112</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>114</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>116</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>118</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>120</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>122</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>124</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>126</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>130</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>132</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Downloaded</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>151</integer>
+			<key>Playlist Persistent ID</key><string>E8588DF0E39AC936</string>
+			<key>Distinguished Kind</key><integer>65</integer>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>103</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>105</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Music</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>155</integer>
+			<key>Playlist Persistent ID</key><string>87B78815545CD6F7</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>112</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>116</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>107</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>103</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>105</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>99</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>101</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>132</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>130</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>124</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>126</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>120</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>122</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>114</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>118</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Taylor Swift - reputation</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>181</integer>
+			<key>Playlist Persistent ID</key><string>7D25208CE86DB2FB</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>103</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>105</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
